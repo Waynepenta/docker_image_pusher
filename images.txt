@@ -7,4 +7,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #rabbitmq:3.12-management
 #gradle:8.0.0-jdk8
-nfs-client-provisioner:latest
+nfs-client-provisioner
