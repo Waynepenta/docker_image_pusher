@@ -8,4 +8,4 @@
 #rabbitmq:3.12-management
 #gradle:8.0.0-jdk8
 #nfs-client-provisioner
-percona/percona-xtrabackup:8.2.0
+percona/percona-xtrabackup:8.1.0
