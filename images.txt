@@ -9,4 +9,5 @@
 #gradle:8.0.0-jdk8
 #nfs-client-provisioner
 #percona/percona-xtrabackup:8.1.0
-openjdk:8-jdk-alpine
+#openjdk:8-jdk-alpine
+gitlab-ce:16.11
