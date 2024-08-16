@@ -10,4 +10,4 @@
 #nfs-client-provisioner
 #percona/percona-xtrabackup:8.1.0
 #openjdk:8-jdk-alpine
-gitlab/gitlab-ce:16.11.3-ce.0
+keking/kkfileview:4.1.0
