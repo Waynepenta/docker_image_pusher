@@ -10,4 +10,4 @@
 #nfs-client-provisioner
 #percona/percona-xtrabackup:8.1.0
 #openjdk:8-jdk-alpine
-gitlab/gitlab-runner:v16.11.2
+gitlab-runner/gitlab-runner-helper:x86_64-v17.3.1
