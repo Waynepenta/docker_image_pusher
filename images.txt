@@ -11,4 +11,8 @@
 #percona/percona-xtrabackup:8.1.0
 #openjdk:8-jdk-alpine
 #gradle:jdk8
-docker.io/jumpserver/core:v4.1.0-ce
+#docker.io/jumpserver/core:v4.1.0-ce
+web:v4.1.0-ce
+lion:v4.1.0-ce
+koko:v4.1.0-ce
+chen:v4.1.0-ce
