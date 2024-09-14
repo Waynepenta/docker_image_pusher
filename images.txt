@@ -10,4 +10,5 @@
 #nfs-client-provisioner
 #percona/percona-xtrabackup:8.1.0
 #openjdk:8-jdk-alpine
-gradle:jdk8
+#gradle:jdk8
+docker.io/jumpserver/core:v4.1.0-ce
