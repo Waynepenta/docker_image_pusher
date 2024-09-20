@@ -12,7 +12,4 @@
 #openjdk:8-jdk-alpine
 #gradle:jdk8
 #docker.io/jumpserver/core:v4.1.0-ce
-docker.io/jumpserver/web:v4.1.0-ce
-docker.io/jumpserver/lion:v4.1.0-ce
-docker.io/jumpserver/koko:v4.1.0-ce
-docker.io/jumpserver/chen:v4.1.0-ce
+mysql:5.7
