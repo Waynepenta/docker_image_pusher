@@ -13,6 +13,7 @@
 #gradle:jdk8
 #docker.io/jumpserver/core:v4.1.0-ce
 #mysql:5.7
-frappe/erpnext:v15.38.0
-mariadb:10.6
-redis:6.2-alpine
+#frappe/erpnext:v15.38.0
+#mariadb:10.6
+#redis:6.2-alpine
+klakegg/hugo:latest-ext
