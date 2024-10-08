@@ -17,4 +17,5 @@
 #mariadb:10.6
 #redis:6.2-alpine
 #klakegg/hugo:latest-ext
-klakegg/hugo:ext-alpine
+#klakegg/hugo:ext-alpine
+klakegg/hugo:0.85.0-ext-ubuntu-onbuild
