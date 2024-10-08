@@ -16,4 +16,5 @@
 #frappe/erpnext:v15.38.0
 #mariadb:10.6
 #redis:6.2-alpine
-klakegg/hugo:latest-ext
+#klakegg/hugo:latest-ext
+klakegg/hugo:ext-alpine
