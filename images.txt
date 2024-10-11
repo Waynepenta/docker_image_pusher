@@ -19,8 +19,8 @@
 #klakegg/hugo:latest-ext
 #klakegg/hugo:ext-alpine
 #klakegg/hugo:0.85.0-ext-ubuntu
-core:v4.2.0-ce
-koko:v4.2.0-ce
-lion:v4.2.0-ce
-web:v4.2.0-ce
-chen:v4.2.0-ce
+jumpserver/core:v4.2.0-ce
+jumpserver/koko:v4.2.0-ce
+jumpserver/lion:v4.2.0-ce
+jumpserver/web:v4.2.0-ce
+jumpserver/chen:v4.2.0-ce
