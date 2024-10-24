@@ -24,3 +24,4 @@
 #jumpserver/lion:v4.2.0-ce
 #jumpserver/web:v4.2.0-ce
 #jumpserver/chen:v4.2.0-ce
+node:18
