@@ -25,4 +25,5 @@
 #jumpserver/web:v4.2.0-ce
 #jumpserver/chen:v4.2.0-ce
 #node:18
-jumpserver/jms_all:v4.2.0
+#jumpserver/jms_all:v4.2.0
+node:18.16.1
