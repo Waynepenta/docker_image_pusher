@@ -29,4 +29,5 @@
 #node:18.16.1
 #maven:3.6.3-openjdk-17
 #openjdk:8-jdk-alpine
-klakegg/hugo:0.85.0-ext
+#klakegg/hugo:0.85.0-ext
+mysql:8.1.0-oracle
