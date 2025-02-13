@@ -31,4 +31,5 @@
 #openjdk:8-jdk-alpine
 #klakegg/hugo:0.85.0-ext
 #mysql:8.1.0-oracle
-mysql:8.4.0
+#mysql:8.4.0
+ollama/ollama
