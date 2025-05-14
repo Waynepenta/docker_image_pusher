@@ -26,6 +26,7 @@
 #jumpserver/chen:v4.2.0-ce
 #node:18
 #jumpserver/jms_all:v4.2.0
+redis:7.2.7-alpine
 #node:18.16.1
 #maven:3.6.3-openjdk-17
 #openjdk:8-jdk-alpine
