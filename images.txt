@@ -34,4 +34,5 @@ redis:7.2.7-alpine
 #mysql:8.1.0-oracle
 #mysql:8.4.0
 #ollama/ollama
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+redis:7.2.7-alpine
