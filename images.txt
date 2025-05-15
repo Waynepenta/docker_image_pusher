@@ -39,4 +39,4 @@ redis:7.2.7-alpine
 #quay.io/argoproj/argocd:v3.0.0
 #ghcr.io/dexidp/dex:v2.41.1
 #python:3.9-slim
-jenkins/jenkins:latest
+jenkins/jenkins:lts
