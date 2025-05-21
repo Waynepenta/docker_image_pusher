@@ -39,4 +39,5 @@ redis:7.2.7-alpine
 #quay.io/argoproj/argocd:v3.0.0
 #ghcr.io/dexidp/dex:v2.41.1
 #python:3.9-slim
-jenkins/jenkins:2.462.3
+#jenkins/jenkins:2.462.3
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
