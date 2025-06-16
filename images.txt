@@ -42,4 +42,5 @@ redis:7.2.7-alpine
 #jenkins/jenkins:2.462.3
 #registry.k8s.io/metrics-server/metrics-server:v0.6.4
 #sonatype/nexus3:latest
-mssql/server:2022-latest
+#mssql/server:2022-latest
+python:3.11-slim
