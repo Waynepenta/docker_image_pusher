@@ -43,4 +43,5 @@ redis:7.2.7-alpine
 #registry.k8s.io/metrics-server/metrics-server:v0.6.4
 #sonatype/nexus3:latest
 #mssql/server:2022-latest
-python:3.11-slim
+#python:3.11-slim
+newpanjing/simpleui_demo
