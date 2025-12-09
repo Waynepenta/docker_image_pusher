@@ -44,4 +44,5 @@ redis:7.2.7-alpine
 #sonatype/nexus3:latest
 #mssql/server:2022-latest
 #python:3.11-slim
-newpanjing/simpleui_demo
+#newpanjing/simpleui_demo
+rancher/rancher:latest
