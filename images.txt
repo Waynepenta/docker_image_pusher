@@ -46,4 +46,5 @@ redis:7.2.7-alpine
 #python:3.11-slim
 #newpanjing/simpleui_demo
 #rancher/rancher:latest
-dreamacro/clash
+#dreamacro/clash
+ghcr.io/MetaCubeX/mihomo:latest
