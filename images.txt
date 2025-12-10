@@ -45,4 +45,5 @@ redis:7.2.7-alpine
 #mssql/server:2022-latest
 #python:3.11-slim
 #newpanjing/simpleui_demo
-rancher/rancher:latest
+#rancher/rancher:latest
+dreamacro/clash
