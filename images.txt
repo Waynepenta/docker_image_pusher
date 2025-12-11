@@ -48,4 +48,4 @@ redis:7.2.7-alpine
 #rancher/rancher:latest
 #dreamacro/clash
 #metacubex/mihomo:latest
-nacos-server:2.2.3
+nacos/nacos-server:v2.2.3
