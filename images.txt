@@ -47,4 +47,5 @@ redis:7.2.7-alpine
 #newpanjing/simpleui_demo
 #rancher/rancher:latest
 #dreamacro/clash
-metacubex/mihomo:latest
+#metacubex/mihomo:latest
+nacos/nacos-server:2.2.3
