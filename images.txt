@@ -51,4 +51,5 @@ redis:7.2.7-alpine
 #nacos/nacos-server:v2.2.3
 #registry.k8s.io/ingress-nginx/controller:v1.9.6
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231226-1a7112e06
-sameersbn/squid:latest
+#sameersbn/squid:latest
+rancher/rancher:v2.8.1
