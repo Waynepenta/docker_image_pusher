@@ -53,3 +53,4 @@ redis:7.2.7-alpine
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231226-1a7112e06
 #sameersbn/squid:latest
 rancher/rancher:v2.8.1
+rancher/shell:v0.1.22
