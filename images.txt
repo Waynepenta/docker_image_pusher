@@ -60,4 +60,5 @@ mysql:8.4
 #redis:7.0
 #redis:8.0
 #redis:6.2.14
-docker:24.0.5-dind
+#docker:24.0.5-dind
+jenkins/jenkins:lts-jdk17
