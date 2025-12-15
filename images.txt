@@ -65,4 +65,4 @@ mysql:8.4
 #maven:3.9.9-eclipse-temurin-17
 #docker:24
 #node:23.5
-inbound-agent:3345.v03dee9b_f88fc-1
+jenkins/inbound-agent:3345.v03dee9b_f88fc-1
