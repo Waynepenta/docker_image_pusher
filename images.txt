@@ -54,5 +54,9 @@ redis:7.2.7-alpine
 #sameersbn/squid:latest
 #rancher/rancher:v2.8.1
 #rancher/shell:v0.1.22
-rancher/rancher-webhook:v0.4.2
-rancher/kubectl:v1.20.2
+#rancher/rancher-webhook:v0.4.2
+#rancher/kubectl:v1.20.2
+mysql:8.4
+redis:7.0
+redis:8.0
+redis:6.2.14
