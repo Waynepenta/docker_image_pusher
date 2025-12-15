@@ -57,6 +57,7 @@ redis:7.2.7-alpine
 #rancher/rancher-webhook:v0.4.2
 #rancher/kubectl:v1.20.2
 mysql:8.4
-redis:7.0
-redis:8.0
-redis:6.2.14
+#redis:7.0
+#redis:8.0
+#redis:6.2.14
+docker:24.0.5-dind
