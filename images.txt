@@ -67,4 +67,5 @@ mysql:8.4
 #node:23.5
 #jenkins/inbound-agent:3345.v03dee9b_f88fc-1
 #powerjob/powerjob-server:5.0.1-beta
-powerjob/powerjob-server:4.3.6
+#powerjob/powerjob-server:4.3.6
+tjqq/powerjob-server:5.0.1-beta
