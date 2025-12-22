@@ -73,4 +73,5 @@ mysql:8.4
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #registry.k8s.io/metrics-server/metrics-server:v0.8.0
 #mysql:8.0.41
-powerjob/powerjob-server
+#powerjob/powerjob-server
+docker.io/jumpserver/core:v4.10.0-ce
