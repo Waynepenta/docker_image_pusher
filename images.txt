@@ -81,4 +81,5 @@ mysql:8.4
 #docker.io/jumpserver/lion:v4.10.0-ce
 #docker.io/jumpserver/web:v4.10.0-ce
 #docker.io/jumpserver/core:v4.10.0-ce
-jumpserver/jms_all:latest
+#jumpserver/jms_all:latest
+jumpserver/jms_all:1.4.8
