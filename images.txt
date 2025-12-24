@@ -87,4 +87,4 @@
 #bitnami/kubectl
 #registry.k8s.io/kubectl:v1.25.16
 #alpine:latest
-docker pull rancher/kubectl:v1.25.14-amd64
+rancher/kubectl:v1.25.14-amd64
