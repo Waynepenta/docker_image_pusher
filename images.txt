@@ -26,7 +26,7 @@
 #jumpserver/chen:v4.2.0-ce
 #node:18
 #jumpserver/jms_all:v4.2.0
-redis:7.2.7-alpine
+#redis:7.2.7-alpine
 #node:18.16.1
 #maven:3.6.3-openjdk-17
 #openjdk:8-jdk-alpine
@@ -56,7 +56,7 @@ redis:7.2.7-alpine
 #rancher/shell:v0.1.22
 #rancher/rancher-webhook:v0.4.2
 #rancher/kubectl:v1.20.2
-mysql:8.4
+#mysql:8.4
 #redis:7.0
 #redis:8.0
 #redis:6.2.14
@@ -85,4 +85,4 @@ mysql:8.4
 #jumpserver/jms_all:1.4.8
 #mcr.microsoft.com/windows/servercore:ltsc2022
 #bitnami/kubectl:1.25.16
-registry.k8s.io/kubectl:v1.25.16
+#registry.k8s.io/kubectl:v1.25.16
