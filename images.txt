@@ -84,4 +84,5 @@ mysql:8.4
 #jumpserver/jms_all:latest
 #jumpserver/jms_all:1.4.8
 #mcr.microsoft.com/windows/servercore:ltsc2022
-bitnami/kubectl:1.25.16
+#bitnami/kubectl:1.25.16
+registry.k8s.io/kubectl:v1.25.16
