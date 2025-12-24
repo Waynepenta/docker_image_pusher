@@ -84,5 +84,6 @@
 #jumpserver/jms_all:latest
 #jumpserver/jms_all:1.4.8
 #mcr.microsoft.com/windows/servercore:ltsc2022
-bitnami/kubectl
+#bitnami/kubectl
 #registry.k8s.io/kubectl:v1.25.16
+alpine:latest
