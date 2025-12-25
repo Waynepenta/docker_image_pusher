@@ -75,7 +75,7 @@
 #mysql:8.0.41
 #powerjob/powerjob-server
 #docker.io/jumpserver/core:v4.10.0-ce
-postgres:16.11
+postgres:14.20
 #docker.io/jumpserver/chen:v4.10.0-ce
 #docker.io/jumpserver/koko:v4.10.0-ce
 #docker.io/jumpserver/lion:v4.10.0-ce
