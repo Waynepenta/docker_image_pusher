@@ -75,12 +75,6 @@
 #mysql:8.0.41
 #powerjob/powerjob-server
 #docker.io/jumpserver/core:v4.10.0-ce
-postgres:14.20
-#docker.io/jumpserver/chen:v4.10.0-ce
-#docker.io/jumpserver/koko:v4.10.0-ce
-#docker.io/jumpserver/lion:v4.10.0-ce
-#docker.io/jumpserver/web:v4.10.0-ce
-#docker.io/jumpserver/core:v4.10.0-ce
 #jumpserver/jms_all:latest
 #jumpserver/jms_all:1.4.8
 #mcr.microsoft.com/windows/servercore:ltsc2022
@@ -91,5 +85,11 @@ postgres:14.20
 #google_containers/kubectl:v1.25.16
 #langgenius/dify-web:1.10.1-fix.1
 #langgenius/dify-api:1.10.1-fix.1
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.5.1-local
+#langgenius/dify-sandbox:0.2.12
+#langgenius/dify-plugin-daemon:0.5.1-local
+#postgres:14.20
+docker.io/jumpserver/chen:v4.10.1-ce
+docker.io/jumpserver/koko:v4.10.1-ce
+docker.io/jumpserver/lion:v4.10.1-ce
+docker.io/jumpserver/web:v4.10.1-ce
+docker.io/jumpserver/core:v4.10.1-ce
