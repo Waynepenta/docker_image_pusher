@@ -93,7 +93,10 @@
 #docker.io/jumpserver/lion:v4.10.1-ce
 #docker.io/jumpserver/web:v4.10.1-ce
 #docker.io/jumpserver/core:v4.10.1-ce
-ghcr.io/c4illin/convertx
-ghcr.io/c4illin/convertx:main
-c4illin/convertx
-c4illin/convertx:main
+#ghcr.io/c4illin/convertx
+#ghcr.io/c4illin/convertx:main
+#c4illin/convertx
+#c4illin/convertx:main
+bitnamilegacy/redis
+bitnamilegacy/postgresql
+bitnamilegacy/minio
