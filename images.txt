@@ -88,8 +88,12 @@
 #langgenius/dify-sandbox:0.2.12
 #langgenius/dify-plugin-daemon:0.5.1-local
 #postgres:14.20
-docker.io/jumpserver/chen:v4.10.1-ce
-docker.io/jumpserver/koko:v4.10.1-ce
-docker.io/jumpserver/lion:v4.10.1-ce
-docker.io/jumpserver/web:v4.10.1-ce
-docker.io/jumpserver/core:v4.10.1-ce
+#docker.io/jumpserver/chen:v4.10.1-ce
+#docker.io/jumpserver/koko:v4.10.1-ce
+#docker.io/jumpserver/lion:v4.10.1-ce
+#docker.io/jumpserver/web:v4.10.1-ce
+#docker.io/jumpserver/core:v4.10.1-ce
+ghcr.io/c4illin/convertx
+ghcr.io/c4illin/convertx:main
+c4illin/convertx
+c4illin/convertx:main
