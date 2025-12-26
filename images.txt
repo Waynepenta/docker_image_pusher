@@ -106,5 +106,5 @@
 #squid
 #langgenius/dify-plugin-daemon:0.4.1-local
 #bitnamilegacy/redis:7.0.11-debian-11-r12
-semitechnologies/weaviate/1.27.27
+semitechnologies/weaviate:1.27.27
 bitnamilegacy/postgresql:15.3.0-debian-11-r7
