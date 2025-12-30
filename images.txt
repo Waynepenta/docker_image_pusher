@@ -109,9 +109,9 @@
 #semitechnologies/weaviate:1.27.27
 #bitnamilegacy/postgresql:15.3.0-debian-11-r7
 #quay.io/prometheus/alertmanager:v0.30.0
-quay.io/prometheus-operator/admission-webhook
-quay.io/jkroepke/kube-webhook-certgen:1.7.4
-quay.io/prometheus-operator/prometheus-operator
-quay.io/prometheus-operator/prometheus-config-reloader
+quay.io/prometheus-operator/admission-webhook:80.8.2
+ghcr.io/jkroepke/kube-webhook-certgen:1.7.4
+quay.io/prometheus-operator/prometheus-operator:80.8.2
+quay.io/prometheus-operator/prometheus-config-reloader:80.8.2
 quay.io/thanos/thanos:v0.40.1
 quay.io/prometheus/prometheus:v3.8.1
