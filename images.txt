@@ -123,4 +123,5 @@
 #lscr.io/linuxserver/libreoffice:latest
 #collabora/code:latest
 #ghcr.io/c4illin/convertx:pr-351
-c4illin/convertx:main
+#c4illin/convertx:main
+nginx:stable-alpine-slim
