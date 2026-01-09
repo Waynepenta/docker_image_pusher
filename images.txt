@@ -132,5 +132,8 @@
 #semitechnologies/weaviate:1.19.0
 #redis:6-alpine
 #ubuntu/squid
-mongo:6.0
-registry.cn-chengdu.aliyuncs.com/tu1h/wechotd:alpine
+#mongo:6.0
+#registry.cn-chengdu.aliyuncs.com/tu1h/wechotd:alpine
+quay.io/argoproj/argocd:v3.2.3
+ghcr.io/dexidp/dex:v2.43.0
+public.ecr.aws/docker/library/redis:8.2.2-alpine
