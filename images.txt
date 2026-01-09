@@ -127,8 +127,10 @@
 #nginx:stable-alpine-slim
 #nginx:stable-alpine-source
 #alpine:3.18
-postgres:15-alpine
-langgenius/dify-sandbox:0.2.10
-semitechnologies/weaviate:1.19.0
-redis:6-alpine
-ubuntu/squid
+#postgres:15-alpine
+#langgenius/dify-sandbox:0.2.10
+#semitechnologies/weaviate:1.19.0
+#redis:6-alpine
+#ubuntu/squid
+mongo:6.0
+registry.cn-chengdu.aliyuncs.com/tu1h/wechotd:alpine
