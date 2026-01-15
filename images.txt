@@ -137,4 +137,6 @@
 #quay.io/argoproj/argocd:v3.2.3
 #ghcr.io/dexidp/dex:v2.43.0
 #public.ecr.aws/docker/library/redis:8.2.2-alpine
-goharbor/prepare:v2.14.1
+#goharbor/prepare:v2.14.1
+rustfs/rustfs
+
