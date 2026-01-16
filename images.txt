@@ -142,4 +142,4 @@
 #postgres:16-alpine
 #m.daocloud.io/docker.io/eclipse-temurin:17-jre-alpine
 #m.daocloud.io/docker.io/maven:3.9-eclipse-temurin-17-alpine
-ghcr.io/vmware-tanzu/octant:v0.25.1
+docker.1ms.run/octant/octant:latest
