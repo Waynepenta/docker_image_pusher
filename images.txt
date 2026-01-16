@@ -140,5 +140,6 @@
 #goharbor/prepare:v2.14.1
 #rustfs/rustfs
 #postgres:16-alpine
-m.daocloud.io/docker.io/eclipse-temurin:17-jre-alpine
-m.daocloud.io/docker.io/maven:3.9-eclipse-temurin-17-alpine
+#m.daocloud.io/docker.io/eclipse-temurin:17-jre-alpine
+#m.daocloud.io/docker.io/maven:3.9-eclipse-temurin-17-alpine
+docker.io/vmware/octant:latest
