@@ -138,5 +138,5 @@
 #ghcr.io/dexidp/dex:v2.43.0
 #public.ecr.aws/docker/library/redis:8.2.2-alpine
 #goharbor/prepare:v2.14.1
-rustfs/rustfs
-
+#rustfs/rustfs
+postgres:16-alpine
