@@ -144,4 +144,7 @@
 #m.daocloud.io/docker.io/maven:3.9-eclipse-temurin-17-alpine
 #docker.1ms.run/octant/octant:latest
 #timonwong/prometheus-webhook-dingtalk
-curlimages/curl
+#curlimages/curl
+grafana/loki:3.6.2
+grafana/alloy:latest
+grafana/grafana:10.4.5
