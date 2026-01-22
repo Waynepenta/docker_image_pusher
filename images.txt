@@ -145,6 +145,7 @@
 #docker.1ms.run/octant/octant:latest
 #timonwong/prometheus-webhook-dingtalk
 #curlimages/curl
-grafana/loki:3.6.2
-grafana/alloy:latest
-grafana/grafana:10.4.5
+#grafana/loki:3.6.2
+#grafana/alloy:latest
+#grafana/grafana:10.4.5
+grafana/alloy:v1.12.2
