@@ -148,4 +148,6 @@
 #grafana/loki:3.6.2
 #grafana/alloy:latest
 #grafana/grafana:10.4.5
-grafana/alloy:v1.12.2
+#grafana/alloy:v1.12.2
+powerjob/powerjob-server:latest
+mysql:8.0
