@@ -1,2 +1,11 @@
+#clawd/moltbot:latest
+#mongo:7.0
+nginx:1.28.1-alpine-perl
+#redis:7.2
+#redis:8-alpine
+python:3.11-slim
+alpine:3.19
+debian:12
 #redis:7.4.7-alpine
-postgres:16-alpine
+#postgres:16-alpine
+mysql:8.4
