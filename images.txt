@@ -1,1 +1,2 @@
-redis:7.4.7-alpine
+#redis:7.4.7-alpine
+postgres:16-alpine
