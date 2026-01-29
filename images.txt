@@ -149,5 +149,7 @@
 #grafana/alloy:latest
 #grafana/grafana:10.4.5
 #grafana/alloy:v1.12.2
-powerjob/powerjob-server:latest
-mysql:8.0
+#powerjob/powerjob-server:latest
+#mysql:8.0
+clawd/moltbot:latest
+
