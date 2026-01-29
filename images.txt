@@ -155,4 +155,5 @@
 #mongo:7.0
 nginx:1.28.1-alpine-perl
 
-redis:7.2
+#redis:7.2
+redis:8-alpine
