@@ -1,7 +1,1 @@
-#clawd/moltbot:latest
-#mongo:7.0
-nginx:1.28.1-alpine-perl
-#redis:7.2
-#redis:8-alpine
-#python:3.11-slim
-debian:12
+redis:7.4.7-alpine
