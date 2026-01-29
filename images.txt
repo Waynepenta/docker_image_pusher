@@ -154,3 +154,5 @@
 #clawd/moltbot:latest
 #mongo:7.0
 nginx:1.28.1-alpine-perl
+
+redis:7.2
