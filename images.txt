@@ -12,4 +12,5 @@ alpine:3.19
 #redis:7.2.12-alpine
 #redis:7-alpine
 #redis:7-alpine
-redis:7-alpine
+#redis:7-alpine
+nginx:alpine-perl
