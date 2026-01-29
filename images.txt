@@ -3,4 +3,5 @@
 nginx:1.28.1-alpine-perl
 #redis:7.2
 #redis:8-alpine
-python:3.11-slimpython:3.11-slim
+python:3.11-slim
+debian:12
