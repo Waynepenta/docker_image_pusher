@@ -152,4 +152,5 @@
 #powerjob/powerjob-server:latest
 #mysql:8.0
 #clawd/moltbot:latest
-#mongo:7.0nginx:1.28.1-alpine-perl
+#mongo:7.0
+nginx:1.28.1-alpine-perl
