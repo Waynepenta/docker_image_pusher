@@ -1,18 +1,11 @@
-#clawd/moltbot:latest
-#mongo:7.0
-nginx:1.28.1-alpine-perl
-#redis:7.2
-#redis:8-alpine
-python:3.11-slim
-alpine:3.19
-#debian:12
-#redis:7.4.7-alpine
-#postgres:16-alpine
-#mysql:8.4redis:7.2.12-alpine
-#redis:7.2.12-alpine
-#redis:7-alpine
-#redis:7-alpine
-#redis:7-alpine
-#nginx:alpine-perl
-#nginx:alpine-perl
-nginx:stable-alpine3.23-slim
+# 已注释的镜像
+# old/image:v1.0
+
+# 未注释的镜像（需要被注释）
+# existing/image:latest
+# another/image:v2.0
+
+# 新增镜像
+new/image:latest
+myapp/service:v1.2
+registry.example.com/myimage:tag
