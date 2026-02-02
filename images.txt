@@ -6,6 +6,8 @@
 # another/image:v2.0
 
 # 新增镜像
-new/image:latest
-myapp/service:v1.2
-registry.example.com/myimage:tag
+# new/image:latest
+# myapp/service:v1.2
+
+# 新增镜像
+nginx:1.9.6
