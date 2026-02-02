@@ -10,4 +10,7 @@
 # myapp/service:v1.2
 
 # 新增镜像
-nginx:1.9.6
+# nginx:1.9.6
+
+# 新增镜像
+nginx:1.29
