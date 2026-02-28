@@ -13,4 +13,5 @@
 # nginx:1.9.6
 
 # 新增镜像
-nginx:1.29
+#nginx:1.29
+node:22
