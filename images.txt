@@ -15,4 +15,5 @@
 # 新增镜像
 #nginx:1.29
 #node:22
-maven:3.9-eclipse-temurin-21
+#maven:3.9-eclipse-temurin-21
+eclipse-temurin:21-jre
