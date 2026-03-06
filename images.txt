@@ -16,4 +16,6 @@
 #nginx:1.29
 #node:22
 #maven:3.9-eclipse-temurin-21
-eclipse-temurin:21-jre
+#eclipse-temurin:21-jre
+node:22-alpine
+nginx:alpine
