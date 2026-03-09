@@ -19,11 +19,4 @@
 #eclipse-temurin:21-jre
 #node:22-alpine
 #nginx:alpine
-docker.io/paketobuildpacks/bellsoft-liberica:11.6.0
-docker.io/paketobuildpacks/executable-jar:6.15.0                                                                                                                                                                     
-docker.io/paketobuildpacks/spring-boot:5.36.0
-docker.io/paketobuildpacks/node-engine:8.0.3
-docker.io/paketobuildpacks/cpython:1.13.12
-docker.io/paketobuildpacks/pip:0.21.3
-docker.io/paketobuildpacks/ubuntu-noble-build:0.0.62
-docker.io/paketobuildpacks/ubuntu-noble-run:0.0.62
+syft:1.47.2
