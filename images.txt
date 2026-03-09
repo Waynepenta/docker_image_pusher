@@ -19,4 +19,5 @@
 #eclipse-temurin:21-jre
 #node:22-alpine
 #nginx:alpine
-syft:1.47.2
+#syft:1.47.2
+paketo-buildpacks/syft:1.47.2
