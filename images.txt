@@ -20,4 +20,5 @@
 #node:22-alpine
 #nginx:alpine
 #syft:1.47.2
-paketobuildpacks/syft:1.47.2
+#paketobuildpacks/syft:1.47.2
+node:24-alpine
