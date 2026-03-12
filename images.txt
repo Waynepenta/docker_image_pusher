@@ -28,4 +28,5 @@
 #openeuler/opencode:1.1.48-oe2403lts
 #kasmweb/codex-cli:1.18.0-rolling-weekly
 #berriai/litellm:main-latest
-ghcr.io/berriai/litellm:main-latest
+#ghcr.io/berriai/litellm:main-latest
+ghcr.io/berriai/litellm:v1.82.0-stable
