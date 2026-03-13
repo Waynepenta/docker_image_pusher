@@ -33,4 +33,6 @@
 #kasmweb/claude-code:1.18.0-rolling-weekly
 #ghcr.io/openclaw/openclaw:2026.3.11-slim
 #ghcr.io/openclaw/openclaw:2026.3.11
-redis:6.2.14
+#redis:6.2.14
+builder-jammy-full:0.3.430
+run-jammy-full:0.1.61
