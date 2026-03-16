@@ -35,4 +35,5 @@
 #ghcr.io/openclaw/openclaw:2026.3.11
 #redis:6.2.14
 #paketobuildpacks/run-jammy-full:0.1.61
-paketobuildpacks/builder-jammy-full:0.3.430
+#paketobuildpacks/builder-jammy-full:0.3.430
+calico/apiserver:v3.24.1
