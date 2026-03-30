@@ -37,4 +37,5 @@
 #paketobuildpacks/run-jammy-full:0.1.61
 #paketobuildpacks/builder-jammy-full:0.3.430
 #calico/apiserver:v3.24.1
-quay.io/vbouchaud/nfs-client-provisioner
+#quay.io/vbouchaud/nfs-client-provisioner
+buildpacksio/pack:0.40.2
