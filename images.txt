@@ -39,4 +39,5 @@
 #calico/apiserver:v3.24.1
 #quay.io/vbouchaud/nfs-client-provisioner
 #buildpacksio/pack:0.40.2
-alpine:3.19
+#alpine:3.19
+paketobuildpacks/ubuntu-noble-build:0.0.98
