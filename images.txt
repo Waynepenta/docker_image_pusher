@@ -40,4 +40,5 @@
 #quay.io/vbouchaud/nfs-client-provisioner
 #buildpacksio/pack:0.40.2
 #alpine:3.19
- docker.io/paketobuildpacks/ubuntu-noble-builder:0.0.98
+#docker.io/paketobuildpacks/ubuntu-noble-builder:0.0.98
+python:3.12-slim
