@@ -44,7 +44,7 @@
 #python:3.12-slim
 #continuumio/miniconda3:latest
 #grafana/otel-lgtm:0.22.1
-grafana/loki:2.9.0
-grafana/tempo:2.3.0
-otel/opentelemetry-collector:0.149.0
-grafana/grafana:10.0.0
+#grafana/loki:2.9.0
+#grafana/tempo:2.3.0
+#otel/opentelemetry-collector:0.149.0
+grafana/grafana:12.4.1
