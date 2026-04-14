@@ -51,4 +51,5 @@
 #grafana/agent:v0.44.8
 #nacos/nacos-server:v3.2.0
 #grafana/alloy:v1.15.0
-node:18.20.8-alpine
+#node:18.20.8-alpine
+python:3.11-slim
