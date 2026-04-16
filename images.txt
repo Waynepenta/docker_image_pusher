@@ -53,4 +53,5 @@
 #grafana/alloy:v1.15.0
 #node:18.20.8-alpine
 #python:3.11-slim
-python:3.11-slim-bookworm
+#python:3.11-slim-bookworm
+busybox:1.31.1
