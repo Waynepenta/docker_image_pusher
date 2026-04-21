@@ -54,4 +54,6 @@
 #node:18.20.8-alpine
 #python:3.11-slim
 #python:3.11-slim-bookworm
-busybox:1.31.1
+#busybox:1.31.1
+oven/bun:1
+golang:1.26.1-alpine
