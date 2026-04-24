@@ -58,4 +58,6 @@
 #oven/bun:1
 #golang:1.26.1-alpine
 #debian:bookworm-slim
-node:20-alpine
+#node:20-alpine
+pgvector/pgvector:pg16
+
