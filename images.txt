@@ -57,4 +57,5 @@
 #busybox:1.31.1
 #oven/bun:1
 #golang:1.26.1-alpine
-debian:bookworm-slim
+#debian:bookworm-slim
+node:20-alpine
