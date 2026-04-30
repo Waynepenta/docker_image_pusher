@@ -60,4 +60,6 @@
 #debian:bookworm-slim
 #node:20-alpine
 #pgvector/pgvector:pg16
-php:8.3-cli-bookworm
+#php:8.3-cli-bookworm
+geoflow-app:latest
+redis:7-alpine
