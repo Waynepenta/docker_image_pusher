@@ -61,5 +61,6 @@
 #node:20-alpine
 #pgvector/pgvector:pg16
 #php:8.3-cli-bookworm
-geoflow-app:latest
+#geoflow-app:latest
 redis:7-alpine
+php:8.4-cli-bookworm
