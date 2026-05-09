@@ -65,4 +65,5 @@
 #redis:7-alpine
 #php:8.4-cli-bookworm
 #composer:2
-node:22-slim
+#node:22-slim
+openjdk:25-jdk-noble
