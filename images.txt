@@ -68,4 +68,5 @@
 #node:22-slim
 #eclipse-temurin:25-jdk-noble
 #nikolaik/python-nodejs:python3.12-nodejs20
-nikolaik/python-nodejs:python3.12-nodejs24
+#nikolaik/python-nodejs:python3.12-nodejs24
+node:24-bookworm
