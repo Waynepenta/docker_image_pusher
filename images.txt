@@ -66,4 +66,5 @@
 #php:8.4-cli-bookworm
 #composer:2
 #node:22-slim
-eclipse-temurin:25-jdk-noble
+#eclipse-temurin:25-jdk-noble
+nikolaik/python-nodejs:python3.12-nodejs20
