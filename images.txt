@@ -70,5 +70,6 @@
 #nikolaik/python-nodejs:python3.12-nodejs20
 #nikolaik/python-nodejs:python3.12-nodejs24
 #node:24-bookworm
-paketobuildpacks/run-noble-base:0.0.3
-paketobuildpacks/ubuntu-noble-builder:0.0.119
+#paketobuildpacks/run-noble-base:0.0.3
+#paketobuildpacks/ubuntu-noble-builder:0.0.119
+atmoz/sftp:alpine-3.7
