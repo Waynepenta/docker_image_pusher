@@ -73,4 +73,5 @@
 #paketobuildpacks/run-noble-base:0.0.3
 #paketobuildpacks/ubuntu-noble-builder:0.0.119
 #atmoz/sftp:alpine-3.7
-atmoz/sftp:debian
+#atmoz/sftp:debian
+postgres:18.0-alpine
