@@ -77,4 +77,5 @@
 #postgres:18.0-alpine
 #ubuntu:22.04
 #golang:1.25.10
-pgvector/pgvector:pg18
+#pgvector/pgvector:pg18
+python:3.12-slim-bookworm
