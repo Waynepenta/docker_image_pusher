@@ -76,4 +76,5 @@
 #atmoz/sftp:debian
 #postgres:18.0-alpine
 #ubuntu:22.04
-golang:1.25.10
+#golang:1.25.10
+pgvector/pgvector:pg18
