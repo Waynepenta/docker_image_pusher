@@ -75,4 +75,5 @@
 #atmoz/sftp:alpine-3.7
 #atmoz/sftp:debian
 #postgres:18.0-alpine
-ubuntu:22.04
+#ubuntu:22.04
+golang:1.25.10
