@@ -79,4 +79,4 @@
 #golang:1.25.10
 #pgvector/pgvector:pg18
 #python:3.12-slim-bookworm
-gotenberg:edge-libreoffice-aws-lambda
+gotenberg/gotenberg:edge-libreoffice-aws-lambda
