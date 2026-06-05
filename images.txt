@@ -80,4 +80,5 @@
 #pgvector/pgvector:pg18
 #python:3.12-slim-bookworm
 #gotenberg/gotenberg:edge-libreoffice-aws-lambda
-ubuntu:24.04
+#ubuntu:24.04
+node:20
