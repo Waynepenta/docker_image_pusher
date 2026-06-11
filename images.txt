@@ -82,4 +82,5 @@
 #gotenberg/gotenberg:edge-libreoffice-aws-lambda
 #ubuntu:24.04
 #node:20
-php:8.4-cli
+#php:8.4-cli
+php:8.4-cli-bookworm
