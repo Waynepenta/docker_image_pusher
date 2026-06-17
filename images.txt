@@ -87,4 +87,5 @@
 #composer:2
 #gradle:8.10-jdk17
 #eclipse-temurin:17-jre-alpine
-minio/minio:RELEASE.2024-10-13T13-34-11Z
+#minio/minio:RELEASE.2024-10-13T13-34-11Z
+maven:3.9-eclipse-temurin-25
