@@ -89,4 +89,5 @@
 #eclipse-temurin:17-jre-alpine
 #minio/minio:RELEASE.2024-10-13T13-34-11Z
 #maven:3.9-eclipse-temurin-25
-qdrant/qdrant:v1.18.2
+#qdrant/qdrant:v1.18.2
+fatedier/frps:v0.60.0
