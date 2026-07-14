@@ -93,5 +93,6 @@
 #fatedier/frps:v0.69.1
 #fatedier/frpc:v0.69.1
 #nacos/nacos-server:v3.2.2
-gradle:8.10-jdk17
-eclipse-temurin:17-jre-alpine
+#gradle:8.10-jdk17
+#eclipse-temurin:17-jre-alpine
+alexsuntop/mineru:3.4.2
