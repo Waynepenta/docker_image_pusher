@@ -95,5 +95,6 @@
 #nacos/nacos-server:v3.2.2
 #gradle:8.10-jdk17
 #alexsuntop/mineru:3.4.2
-eclipse-temurin:25-jre
-nginx:1.28-alpine
+#eclipse-temurin:25-jre
+#nginx:1.28-alpine
+calciumion/new-api:v0.13.2
