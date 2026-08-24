@@ -97,4 +97,5 @@
 #alexsuntop/mineru:3.4.2
 #eclipse-temurin:25-jre
 #nginx:1.28-alpine
-calciumion/new-api:v0.13.2
+#calciumion/new-api:v0.13.2
+python:3.9-slim
