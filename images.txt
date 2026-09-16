@@ -105,4 +105,5 @@
 #traefik:v3.7.10
 #qdrant/qdrant:v1.12.1
 #neo4j:5.26.29-community
-rook/ceph:v1.12.11
+#rook/ceph:v1.12.11
+quay.io/ceph/ceph:v17.2.6
