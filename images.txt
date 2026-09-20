@@ -113,4 +113,8 @@
 #registry.k8s.io/sig-storage/csi-resizer:v1.8.0
 #registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
 #quay.io/opstree/redis-operator:v0.26.0
-quay.io/opstree/redis:v7.0.15
+#quay.io/opstree/redis:v7.0.15
+apecloud/kubeblocks:1.0.0
+apecloud/kubeblocks-tools:1.0.0
+apecloud/kubeblocks-dataprotection:1.0.0
+apecloud/datasafed:0.2.3
