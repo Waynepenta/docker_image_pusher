@@ -136,4 +136,6 @@
 #quay.io/csiaddons/k8s-sidecar:v0.14.0
 #quay.io/ceph/ceph:v20.2.1
 #quay.io/ceph/ceph:v20
-registry.k8s.io/sig-storage/snapshot-controller:v8.6.0
+#registry.k8s.io/sig-storage/snapshot-controller:v8.6.0
+docker.io/apecloud/mysql_audit_log:8.0.33
+docker.io/apecloud/mysql:8.0.44
