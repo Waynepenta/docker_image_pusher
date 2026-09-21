@@ -118,5 +118,6 @@
 #apecloud/kubeblocks-tools:1.0.0
 #apecloud/kubeblocks-dataprotection:1.0.0
 #apecloud/datasafed:0.2.3
-docker.io/rook/ceph:v1.15.9
+#docker.io/rook/ceph:v1.15.9
+quay.io/ceph/ceph:v18.2.4
 
