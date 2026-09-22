@@ -150,7 +150,7 @@
 #docker.io/goharbor/valkey-photon:v2.15.2
 #docker.io/goharbor/harbor-exporter:v2.15.2
 ##docker.io/goharbor/nginx-photon:v2.15.2
-docker.io/apecloud/redis-stack-server:7.2.0-v14
+#docker.io/apecloud/redis-stack-server:7.2.0-v14
 #docker.io/apecloud/mysql:8.4.0
 #docker.io/apecloud/jemalloc:5.3.0
 #docker.io/apecloud/syncer:0.6.5
