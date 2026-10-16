@@ -158,4 +158,5 @@ docker.io/apecloud/xtrabackup:8.4
 #docker.io/apecloud/mysql:8.4.0
 #docker.io/apecloud/mysqld-exporter:0.15.1
 #busybox
+amazon/aws-cli
 
